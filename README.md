@@ -1,7 +1,7 @@
 # WireShark
 
-![diag](https://github.com/Kadam-Tushar/FundChain/blob/master/diag_FundChain.png)  
-![diag](https://github.com/Kadam-Tushar/FundChain/blob/master/diag_FundChain.png)  
+![diag](https://github.com/sangramdesai123/WireShark/blob/master/img/1.png)  
+![diag](https://github.com/sangramdesai123/WireShark/blob/master/img/2.png)  
 
 - Resources 
 
