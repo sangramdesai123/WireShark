@@ -12,7 +12,7 @@ https://docs.python.org/3.4/library/struct.html#format-characters
 
 Installation
 All Platforms
-Simply run the following to install the latest from pypi
+Simply run the following to install the latest from pypi (pip3 install)
 
 Step 1:
 
